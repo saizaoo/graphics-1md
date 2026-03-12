@@ -2,7 +2,7 @@
 
 Programma zīmē Koha sniegpārslas fraktāli, atklāti definējot tā līdzību pašam ar sevi dažādos detalizācijas līmeņos.
 
-Galvenais algoritma kods ir atrodams `sketch.js` failā. Izmantots JavaScript un [p5.js](https://p5js.org/) bibliotēka.
+Programma pieejama [tiešsaistē](https://saizaoo.github.io/graphics-1md/). Galvenais algoritma kods ir atrodams `sketch.js` failā. Izmantots JavaScript un [p5.js](https://p5js.org/) bibliotēka.
 
 ## Palaišana lokāli
 
